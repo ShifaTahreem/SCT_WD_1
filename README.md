@@ -1,5 +1,5 @@
 # SCT_WD_1
-**# Responsive Landing Page
+**# Responsive Landing Page#**
 
 ## Task 1 - SkillCraft Technology Web Development Internship
 
