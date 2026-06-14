@@ -53,5 +53,4 @@ SkillCraft Technology - Web Development Internship
 
 ## Author
 
-Shifa Tahreem
-**
+**Shifa Tahreem**
